@@ -27,6 +27,7 @@ Understanding drone laws is essential for safe and legal operations, especially 
 
 - [UAV Coach Drone Laws Database](https://uavcoach.com/drone-laws/) – Easy-to-read summaries of drone laws by country.
 - [Drone Laws by Country (DroneTraveler)](https://www.dronetraveller.com/) – Visual guide with regulations, travel restrictions, and more.
+- [DroneKoll](https://dronekoll.com/) – Drone rules and official sources for 55 countries, with live zone maps and NOTAMs.
 - [DJI FlySafe GEO Zone Map](https://www.dji.com/flysafe/geo-map) – Flight restrictions by region for DJI users.
 - [ICAO – UAS Toolkit](https://www.icao.int/safety/UA/Pages/default.aspx) – International Civil Aviation Organization’s drone regulation resources.
 - [Wikipedia – UAV Regulations](https://en.wikipedia.org/wiki/Regulation_of_unmanned_aerial_vehicles) – Summary of legal status by country.
