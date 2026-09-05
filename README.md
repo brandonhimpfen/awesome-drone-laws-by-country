@@ -1,4 +1,4 @@
-# Awesome Drone Laws by Country [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Drone Laws by Country [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -77,10 +77,10 @@ Understanding drone laws is essential for safe and legal operations, especially 
 
 ## Related Awesome Lists
 
-- [Awesome Drones](https://github.com/awesomelistsio/awesome-drones)
-- [Awesome Open-Source Drone Firmware](https://github.com/awesomelistsio/awesome-open-source-drone-firmware)
-- [Awesome UAV Collision Avoidance Systems](https://github.com/awesomelistsio/awesome-uav-collision-avoidance-systems)
-- [Awesome Flight Log Analysis](https://github.com/awesomelistsio/awesome-flight-log-analysis)
+- [Awesome Drones](https://github.com/brandonhimpfen/awesome-drones)
+- [Awesome Open-Source Drone Firmware](https://github.com/brandonhimpfen/awesome-open-source-drone-firmware)
+- [Awesome UAV Collision Avoidance Systems](https://github.com/brandonhimpfen/awesome-uav-collision-avoidance-systems)
+- [Awesome Flight Log Analysis](https://github.com/brandonhimpfen/awesome-flight-log-analysis)
   
 ## Contribute
 
